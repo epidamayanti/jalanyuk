@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="white">#FFFF</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Line -->
+    <color name="colorLine">#E0E0E0</color>
+
+    <color name="colorTextLight">@color/md_grey_600</color>
+    <color name="md_grey_400">#BDBDBD</color>
+
+    <color name="md_grey_600">#757575</color>
+    <color name="md_grey_100">#F5F5F5</color>
+    <color name="md_grey_800">#424242</color>
+    <color name="md_blue_600">#1E88E5</color>
+</resources>

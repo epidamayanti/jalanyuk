@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "754456916262",
+    "firebase_url": "https://jalanyuk-a66db.firebaseio.com",
+    "project_id": "jalanyuk-a66db",
+    "storage_bucket": "jalanyuk-a66db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754456916262:android:034f768aa0593f714a91e7",
+        "android_client_info": {
+          "package_name": "com.poy.jalanyuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754456916262-pmjerr6bt7472mt78cjel18bkjjb5ud9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1WcadFj4vRaQkJBk8mI3aHHpz78ndehU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754456916262-pmjerr6bt7472mt78cjel18bkjjb5ud9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
